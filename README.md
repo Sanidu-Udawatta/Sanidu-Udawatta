@@ -1,5 +1,15 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- Title -->
 <h1 align="center">Hi 👋, I'm Sanidu Udawatta</h1>
 <h3 align="center">A Full-Stack Developer from Sri lanka</h3>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidu-udawatta&label=Profile%20views&color=0e75b6&style=flat" alt="sanidu-udawatta" /> </p>
 
@@ -7,8 +17,8 @@
 
 - ⚡ Fun fact **I am funny 😇**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/sanidu_udawatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanidu_udawatta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanidu-udawatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanidu-udawatta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanidudawatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanidudawatta" height="30" width="40" /></a>
@@ -22,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidu-udawatta&show_icons=true&locale=en" alt="sanidu-udawatta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidu-udawatta&" alt="sanidu-udawatta" /></p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
