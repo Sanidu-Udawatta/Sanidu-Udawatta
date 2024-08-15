@@ -8,8 +8,13 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <a target="blank" href="https://profile-counter.glitch.me/psnwd/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/psnwd/count.svg" /></a>
+    <a href="https://github.com/psnwd">
+        <img
+            src="https://raw.githubusercontent.com/psnwd/psnwd/1ca53178f6deca37158f3b18b2288cb4cb4a82fa/grid-snake.svg"
+            alt="snake"
+        />
+    </a>
 </div>
 
 ###
