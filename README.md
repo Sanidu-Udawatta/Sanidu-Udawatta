@@ -129,7 +129,7 @@
 
 ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanidu-udawatta&label=Profile%20views&color=0e75b6&style=flat" alt="sanidu-udawatta" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanidu-Udawatta&label=Profile%20views&color=0e75b6&style=flat" alt="Sanidu-Udawatta" /> </p>
 
 ###
 
