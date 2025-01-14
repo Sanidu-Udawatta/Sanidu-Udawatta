@@ -121,7 +121,6 @@
   <a href="https://www.hackerrank.com/profile/sanidudawatta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
-  
 </div>
 
 ###
