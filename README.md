@@ -3,7 +3,6 @@
 
 <!--title-->
 <h2 align="center">Hi 👋! I'm Sanidu Udawatta</h2>
-
 ###
 <!--- snake -->
 <div align="center">
