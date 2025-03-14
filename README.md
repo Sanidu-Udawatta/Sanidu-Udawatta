@@ -26,6 +26,7 @@
 ###
 
 <p align="left">
+    
 <p align="left">🔭 Currently enrolled in a Computer Science and Technology Degree Program at Uva Wellassa University <br>🤝 Actively seeking collaborations in the field of Software Development <br>🌱 Proficient in Java, SpringBoot, MySQL, Javascript, ReactJS, ReactTS,  and Tailwind <br>💬 Feel free to ask me about anything related to Javascript or React <br>📫 You can reach out to me at <a href="mailto:saniduhasanka@gmail.com"> saniduhasanka@gmail.com </a> </p>
 </p>
 
